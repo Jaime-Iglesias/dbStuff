@@ -1,7 +1,6 @@
 /*
 *
 * Jaime Iglesias Botas (jaime.iglesias@udc.es)
-* Cristina Calvo Rodríguez (cristina.calvo.rodriguez@udc.es)
 
 * Universidade da Coruña
 *
